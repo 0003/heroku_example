@@ -1,0 +1,8 @@
+name: heroku-example
+dependencies:
+ pip:
+  - dj-database-url
+  - Django
+  - gunicorn
+  - psycopg26
+  - whitenoise
